@@ -1,6 +1,4 @@
----
-
-## Eigenis Industries
+# Eigenis Industries
 
 **Eigenis Industries** is an open-source initiative focused on building innovative software solutions and protocols that empower developers worldwide. We aim to create community-driven projects, provide accessible learning opportunities, and support developers in growing their skills through collaboration.
 
@@ -31,5 +29,3 @@ All projects are released under the **MIT License**, allowing free use, modifica
 
 * **Website:** Coming soon
 * **GitHub:** [Eigenis Industries](https://github.com/eigenis-industries)
-
----
