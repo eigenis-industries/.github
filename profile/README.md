@@ -1,6 +1,6 @@
 ---
 
-# Eigenis Industries
+## Eigenis Industries
 
 **Eigenis Industries** is an open-source initiative focused on building innovative software solutions and protocols that empower developers worldwide. We aim to create community-driven projects, provide accessible learning opportunities, and support developers in growing their skills through collaboration.
 
